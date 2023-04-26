@@ -1,7 +1,7 @@
 # Graphics_OPENGL
 Homeworks &amp; tasks lab´s
 
-##Integrantes:
+## Integrantes:
 
 -Cristian Ocola
 -Carlos Morales
